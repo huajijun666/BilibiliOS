@@ -118,6 +118,7 @@ vue-aplayer
 ## 关于 Deepin
 
 作者本人与Deepin官方没有任何关系，纯粹由于兴趣爱好和宣传国产系统的目的编写，不以项目的任何形式盈利为目的。 如果您对Deepin感兴趣，请访问官方网站 [https://www.deepin.org/](https://www.deepin.org/)
+
 原文作者:https://github.com/GoodManWEN/GoodManWEN.github.io/tree/main
 
 ### 鸣谢
