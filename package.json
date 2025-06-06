@@ -14,12 +14,12 @@
     "markdown-it-vue": "^1.1.6",
     "postcss": "^8.4.31",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.1.0",
-    "vue": "^3.0.0",
+    "vue": "^3.0.1",
     "vue-aplayer": "^1.6.1",
     "vue-axios": "^3.2.4",
     "vue-router": "^3.5.1",
     "vue-wechat-title": "^2.0.7",
-    "vuetify": "^2.6.13",
+    "vuetify": "^3.8.8",
     "vuex": "^3.6.2"
   },
   "devDependencies": {
