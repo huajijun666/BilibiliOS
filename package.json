@@ -19,7 +19,7 @@
     "vue-axios": "^3.5.2",
     "vue-router": "^3.5.1",
     "vue-wechat-title": "^2.0.7",
-    "vuetify": "^3.8.8",
+    "vuetify": "^3.8.11",
     "vuex": "^3.6.2"
   },
   "devDependencies": {
