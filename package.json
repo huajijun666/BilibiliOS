@@ -17,7 +17,7 @@
     "vue": "^3.0.7",
     "vue-aplayer": "^1.6.1",
     "vue-axios": "^3.5.2",
-    "vue-router": "^3.5.1",
+    "vue-router": "^3.6.5",
     "vue-wechat-title": "^2.0.7",
     "vuetify": "^3.8.11",
     "vuex": "^3.6.2"
