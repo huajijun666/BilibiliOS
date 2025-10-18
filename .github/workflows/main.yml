@@ -1,4 +1,8 @@
 name: 构建
+uses: actions/checkout@v1
+  with:
+    repository: huajijun666/BilibiliOS
+    ref: master # or another valid branch name
 on:
   #监听push操作
   push:
