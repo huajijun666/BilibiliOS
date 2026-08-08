@@ -8,8 +8,13 @@ on:
 
   workflow_dispatch:
 
+permissions:
+  contents: read
+
 jobs:
   build:
+    permissions:
+      contents: write  # for ad-m/github-push-action to push local changes
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
